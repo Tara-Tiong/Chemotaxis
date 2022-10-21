@@ -3,7 +3,7 @@ Bach[] bact;
 
 void setup() {
   size(500,500);
-  bact = new Bach[100];
+  bact = new Bach[70];
     for(int i =0; i < bact.length; i++){
     bact[i] = new Bach();
   }
